@@ -227,4 +227,5 @@ def main(image_path):
     show_images_together(img, encrypted_img, decrypted_img)
 
 if __name__ == "__main__":
-    main("E:\\Minor\\popla\\apple.jpg")
+    main(Path)        # add your image file path here
+
